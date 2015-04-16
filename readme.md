@@ -1,4 +1,22 @@
-# With accessibility in mind
+# with *accessibility* in mind
+
+Get the slides: https://github.com/finnp/a11y-talk
+
+---
+
+Hi, I am [@finnpauls](https://twitter.com/finnpauls)
+
+[![Bee, Puppycat and tempbot say hello](start.gif)](https://www.youtube.com/watch?v=lOG_UtLxh58)
+
+<small>This is the only gif in this presentation — I promise.</small>
+
+---
+
+## What?
+
+> “Web accessibility means that people with disabilities can use the Web.“
+
+World Wide Web Consortium (W3C)
 
 ---
 
@@ -14,8 +32,7 @@ Raul Krauthausen @raulde
 
 ## JavaScript?!
 - **97,6%** of people with screen readers use it
-- therefore `<noscript>` is not valuable to screen readers
-- Don't surprise people though
+- `<noscript>` is not valuable to screen readers
 
 <small>Source: http://a11yproject.com/posts/myth-screen-readers-dont-use-javascript/</small>
 
@@ -109,3 +126,11 @@ Let's use VoiceOver.
 - Web item rotor: VO-U
 
 http://a11yproject.com/posts/getting-started-with-voiceover/
+
+---
+
+## Thank You and Good Night
+
+![Bee and Puppycat say thank you](thank-you.png)
+
+Slides are online at https://github.com/finnp/a11y-talk

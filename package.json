@@ -1,0 +1,26 @@
+{
+  "name": "a11y-talk",
+  "version": "1.0.0",
+  "description": "Get the slides: https://github.com/finnp/a11y-talk",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md readme.md --theme simple",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/finnp/a11y-talk"
+  },
+  "keywords": [
+    "accessibility"
+  ],
+  "author": "Finn Pauls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/finnp/a11y-talk/issues"
+  },
+  "homepage": "https://github.com/finnp/a11y-talk",
+  "dependencies": {
+    "reveal-md": "0.0.18"
+  }
+}
