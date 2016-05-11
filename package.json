@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/finnp/a11y-talk",
   "dependencies": {
-    "reveal-md": "0.0.18"
+    "reveal-md": "0.0.26"
   }
 }
